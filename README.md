@@ -1,12 +1,4 @@
-
-  _________   _________   _______________ ___________.__             _____________________   _________   _________________________/\      
- /   _____/  /  _  \   \ /   /\_   _____/ \__    ___/|  |__   ____   \______   \_   _____/  /  _  \   \ /   /\_   _____/\______   )/______
- \_____  \  /  /_\  \   Y   /  |    __)_    |    |   |  |  \_/ __ \   |    |  _/|    __)_  /  /_\  \   Y   /  |    __)_  |       _//  ___/
- /        \/    |    \     /   |        \   |    |   |   Y  \  ___/   |    |   \|        \/    |    \     /   |        \ |    |   \\___ \ 
-/_______  /\____|__  /\___/   /_______  /   |____|   |___|  /\___  >  |______  /_______  /\____|__  /\___/   /_______  / |____|_  /____  >
-        \/         \/                 \/                  \/     \/          \/        \/         \/                 \/         \/     \/ 
-        
-
+# SAVE THE BEAVERS !!!
  Save the Beavers - Charity E-Commerce Database
 
 Welcome to my database implementation project. For this assignment, I designed "Save the Beavers", an associative e-commerce platform where purchases directly fund real-world conservation efforts. Instead of a standard retail store, this database tracks both financial transactions and the specific charitable impact of each purchase.
